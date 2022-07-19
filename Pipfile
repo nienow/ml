@@ -8,6 +8,7 @@ jupyter = "1.0.0"
 numpy = "1.19.3"
 matplotlib = "3.5.2"
 scikit-learn = "1.1.1"
+pandas = "*"
 
 [dev-packages]
 
